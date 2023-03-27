@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FebykAlekSatria&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
-[![Assyatier21 github activity graph](https://activity-graph.herokuapp.com/graph?username=FebykAlekSatria&theme=react-dark)](https://github.com/FebykAlekSatria)
+[![Febyk Alek Satria github activity graph](https://activity-graph.herokuapp.com/graph?username=FebykAlekSatria&theme=react-dark)](https://github.com/FebykAlekSatria)
 
 <!-- Updated on 15 July 2022 --!>
  
