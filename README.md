@@ -22,7 +22,7 @@ my skills to solve various technology-related challenges, including those in the
 
 - 🔭 I’m currently working on fullstack developer
   
-- 🌱 I’m currently sharpning Data Structures & Algorithms
+- 🌱 I’m currently use SpringBoot
   
 - 👯  I’m looking to collaborate on any project idea..
   
